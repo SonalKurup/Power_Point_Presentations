@@ -1,4 +1,4 @@
-# Gender Sensitization & Equal Rights of Women
+# Gender Sensitization & Legal Rights of Women
 This repository contains a PowerPoint presentation developed to promote awareness around gender sensitization and the equal rights of women in society.
 
 # Objectives
